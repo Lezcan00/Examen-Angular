@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Remera Negra",
+        "price": 19.99,
+        "description": "Remera básica de algodón 100% Negra.",
+        "image": "https://media.istockphoto.com/id/1125110782/es/foto/hombre-joven-aislado-en-una-pared-con-textura-gris-sonriendo-mientras-apunta-con-el-dedo.jpg?s=612x612&w=0&k=20&c=hcMB9DIHaUo_KVxJI3HP3vXrmuIS2owjeoP_Hrj5USw="
+    },
+    {
+        "id": 2,
+        "title": "Pantalón Negro",
+        "price": 39.99,
+        "description": "Pantalón negro, baggy, con bolsillos.",
+        "image": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/e2b6a6a38ee24945acd8af7e011154ec_9366/pantalon-de-senderismo-terrex-liteflex.png"
+    },
+    {
+        "id": 3,
+        "title": "Campera Negra",
+        "price": 29.99,
+        "description": "Campera, color negro.",
+        "image": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/8a9422e81f494b3aa257ad120117a2b1_9366/campera-termica-terrex-multi-primegreen-hybrid.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Campera Blanca",
+        "price": 99.99,
+        "description": "Campera de plumas, femenina.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_770448-MLA75433544555_032024-O.webp"
+    }
+]
